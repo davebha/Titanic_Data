@@ -1,0 +1,17 @@
+#Sibling accompying Passenger(SibSp)
+#Parch means no of elders accompnying passenger
+#Embark means port the ship left at
+
+1.Total people travelling
+2.How many survived/died
+3.How many elders were there?How many survived?
+4.How many kids were there?How many survived?
+5. How many females were there?How many survived?
+6.How many were rich and poor were there?How many survived?
+7.What's survival ratio of people boarding on each port?
+8.How many were travelling solo? What ratio of those survived? 
+9. How many were not travelling solo?what ratio of those survived?
+10. Ratio of male and female travelling solo
+
+Get all the passenger who left from a particular town.
+2.Find out the number of accompanying passenger in each class.
